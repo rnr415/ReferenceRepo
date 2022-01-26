@@ -17,3 +17,7 @@ Transformer references
 - asfd
 
 BERT references
+
+NLP + KG references
+- [Information Extraction meets the Semantic Web: A Survey](https://repositorio.uchile.cl/bitstream/handle/2250/174484/Information-extraction-meets-the-Semantic-Web.pdf?sequence=1)
+- [Neural Entity Linking: A Survey of models based on Deep Learning](https://arxiv.org/pdf/2006.00575.pdf)
