@@ -18,6 +18,7 @@ Transformer references
 
 BERT references
 - [BoW to BERT](http://xplordat.com/2019/09/23/bow-to-bert/)
+- [How to Train BERT Model from Scratch](https://towardsdatascience.com/how-to-train-a-bert-model-from-scratch-72cfce554fc6)
 
 NLP + KG references
 - [Information Extraction meets the Semantic Web: A Survey](https://repositorio.uchile.cl/bitstream/handle/2250/174484/Information-extraction-meets-the-Semantic-Web.pdf?sequence=1)
